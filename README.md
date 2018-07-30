@@ -1,6 +1,7 @@
 # Docker Tutorial
 Docker sample application created using tutorial on https://docs.docker.com/get-started/
-To initialize the app
+
+To initialize the app:
 * install Docker Community Edition from https://docs.docker.com/install/#supported-platforms
 * sign up for Docker account to host image repo at https://hub.docker.com/
 * install Oracle VirtualBox at https://www.virtualbox.org/wiki/Downloads to run image on virtual machines
