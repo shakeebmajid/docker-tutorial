@@ -1,5 +1,5 @@
-# docker-tutorial
-
+# Docker Tutorial
+Docker sample application created using tutorial on https://docs.docker.com/get-started/
 To initialize the app
 * install Docker Community Edition from https://docs.docker.com/install/#supported-platforms
 * sign up for Docker account to host image repo at https://hub.docker.com/
